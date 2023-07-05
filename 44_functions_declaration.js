@@ -20,11 +20,6 @@ function sumThreeNumbers(number1, number2, number3){
 }
 
 
-
-// isEven
-// input : 1 number 
-// output : true , false 
-
 // function isEven(number){
 //     return number % 2 === 0;
 // }

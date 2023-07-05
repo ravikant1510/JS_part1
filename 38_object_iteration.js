@@ -12,7 +12,7 @@ const person = {
 // now we have key in variable so we can't use . dot notation to 
 // get the value, we have to use bracket notation 
 // for(let key in person){
-//     // console.log(`${key} : ${person[key]}`);//method 1
+//     console.log(`${key} : ${person[key]}`);//method 1
 //     console.log(key," : " ,person[key]);// method 2
 // }
 
